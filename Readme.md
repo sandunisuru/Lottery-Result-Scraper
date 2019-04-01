@@ -1,5 +1,3 @@
-**
-
 # Lottery Results Scraper with API
 
 ### Step by Step Guide
