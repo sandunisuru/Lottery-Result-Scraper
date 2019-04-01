@@ -19,13 +19,17 @@
 
     localhost:3000/{Lottery provider}/results
 (As for now only have NLB so use `nlb` as provider.)
+
 Method: `POST`
+
 Sample Request: 
+
 `
 {
 	"name": "supiri-vasana",
 	"date": "2019-03-25"
 }`
+
 Use exact date format (`YYYY-MM-DD`) and you can use these names for the get relevent lottery results.
 
 | Name Request Code | Lottery Name  |
